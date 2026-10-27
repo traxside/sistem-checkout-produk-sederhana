@@ -1,5 +1,5 @@
 # Case Study: Sistem Checkout Produk Sederhana
-
+Dibuat oleh: Richie Leonardo
 ## Deskripsi Case Study
 Studi kasus terkait menghasilkan program untuk sistem checkout sederhana yang meminta data seperti harga produk, jumlah produk, dan status member pembeli. 
 
